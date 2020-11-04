@@ -7,6 +7,9 @@ The list includes:
 5. Queue using LinkedList
 6. BinaryTree
 7. Trie Datastructure
-8. Hashmaps
+8. Min Priority Queue
+9. Max Priroity Queue
+10. Hashmaps
+
 
 
