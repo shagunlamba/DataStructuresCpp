@@ -9,7 +9,7 @@ The list includes:
 7. Trie Datastructure
 8. Min Priority Queue
 9. Max Priroity Queue
-10. Hashmaps
+10. Hashmap
 
 
 
